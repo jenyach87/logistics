@@ -98,7 +98,7 @@ export default function Home() {
           Go to nextjs.org →
         </a>
       </footer> */}
-      hello world
+      hello next 
     </div>
   );
 }
